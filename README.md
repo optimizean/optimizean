@@ -8,7 +8,7 @@
 <div align="center">
 <h3> 𝚆𝚎𝚕𝚌𝚘𝚖𝚎, 𝙵𝚎𝚕𝚕𝚘𝚠 𝙷𝚞𝚖𝚊𝚗 𝚊𝚗𝚍 𝙽𝚘𝚗-𝙷𝚞𝚖𝚊𝚗 𝚅𝚒𝚜𝚒𝚝𝚘𝚛𝚜! 👋</h3>
 
-<img a="newCaptchaAnchor" src="https://github.com/optimizean/an/assets/172540472/47a967bf-4b1c-4c4e-b93e-6711d48aaa2b" height=100/>
+<img a="newCaptchaAnchor" src="https://github.com/optimizean/optimizean/assets/172540472/a7d1841c-a402-4cec-9e88-3b4040baebac" height=100/>
 </div>
 
 <div align="center">
